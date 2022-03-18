@@ -6,7 +6,6 @@ namespace task1
     {
         static void Main(string[] args)
         {
-
             bool isDoorOpen;
             int health;
             long amountOfGold;
@@ -15,10 +14,8 @@ namespace task1
             double armor;
             byte rewardStars;
             ulong starsInTheSky;
-            bool canJump;
-            int bulletsInGun;
-                              
-
+            uint moneyToBuyItem;
+            short bulletsInGun;                              
         }
     }
 }
